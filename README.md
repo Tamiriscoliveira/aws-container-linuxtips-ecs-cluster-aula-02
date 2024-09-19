@@ -1,1 +1,0 @@
-# aws-container-linuxtips-ecs-cluster-aula-02
