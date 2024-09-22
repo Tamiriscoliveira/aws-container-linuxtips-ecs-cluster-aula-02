@@ -28,3 +28,6 @@ Services = é um grupo de tasks que representam o conteudo de uma aplicação, n
 Tasks Definition = Os templates das tasks aonde fica as especificações e ps recursos.
 
 Tasks = A menos unidade de medida e pode conter um ou mais container.
+
+
+![ECS](imagens/ecs.png)
